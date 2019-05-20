@@ -1,5 +1,4 @@
-source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-gem "jekyll-github-metadata"
-gem "jekyll-octicons"
-gem "jemoji"
+source "https://rubygems.org"
+
+gem "jekyll", "~> 3.6.2"
+gem "github-pages", "~> 168"
